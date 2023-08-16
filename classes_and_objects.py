@@ -1,3 +1,3 @@
-print('hello world')
-print('Hi mike')
-print()
+class Person():
+    def __init__(self):
+        pass
